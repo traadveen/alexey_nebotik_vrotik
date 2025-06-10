@@ -122,7 +122,7 @@ async def echo_random_word(update: Update, context: ContextTypes.DEFAULT_TYPE) -
 
 
 
-bot_token = "7907332569:AAF_qzJhmfV9nPqn4s2r4-3uwrggKeSqulM"
+bot_token = 
 
 
 # Запуск бота без asyncio.run()
